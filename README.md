@@ -19,4 +19,8 @@ Python is a high-level, interpreted programming language known for its simplicit
 - **Used in Various Domains**: From web development and data science to AI, machine learning, automation, game development, and more.
 
 
+# chapter 1 - how to write first python program
+create a file called index1.py wirte a first hello world program 
+
+
 
