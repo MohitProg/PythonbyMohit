@@ -57,6 +57,15 @@ Simply data type means in python is that what ever data we are saving and using 
 | String           | A sequence of characters (primitive in some languages)       | "Hello", "123"    |
 
 
+## Types of derived data type 
+
+| Derived Data Type | Description                                                                                                   |
+|-------------------|---------------------------------------------------------------------------------------------------------------|
+| List              | Ordered, mutable collection of items. Allows duplicates. Defined with square brackets `[]`.                   |
+| Tuple             | Ordered, immutable collection of items. Allows duplicates. Defined with parentheses `()`.                      |
+| Set               | Unordered collection of unique items (no duplicates). Mutable. Defined with curly braces `{}`.                |
+| Dictionary (dict)  | Collection of key-value pairs. Keys are unique. Mutable and unordered (insertion ordered in Python 3.7+). Defined with curly braces `{}` and key-value syntax. |
+
 
 
 
