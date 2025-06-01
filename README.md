@@ -20,7 +20,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 - **Used in Various Domains**: From web development and data science to AI, machine learning, automation, game development, and more.
 
-# chapter 1 - how to write first python program
+## chapter 1 - how to write first python program
 create a file called index1.py wirte a first hello world program
 
 ## what is variable in a python ? 
@@ -40,10 +40,10 @@ Variable is a type of container which is used to save data and data can be any t
 - Use descriptive names that make your code easy to understand. Avoid using one-letter variables (like `x`, `y`, `z`) unless they are used in a specific context (e.g., loops or math).
 
 
-## what is data type ? 
+# what is data type ? 
 Simply data type means in python is that what ever data we are saving and using in python is which type like intyeger , boolean or something else 
 
-### we have two types of datav type in python 
+## we have two types of datav type in python 
 - **Primitive Data type** : these is inbuilt data type in python which used for data alocation 
 - **Derived Datta type** : simply when we combine two primitive data type then it become derived data type will discuss about it further 
 
